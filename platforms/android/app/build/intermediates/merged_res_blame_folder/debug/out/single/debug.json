@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-mdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-hdpi_ic_action_remove.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-hdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/xml_config.xml.flat",
+        "source": "com.midterm.app-main-26:/xml/config.xml"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xxhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-mdpi_ic_action_remove.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-mdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-nodpi_ic_cdv_splashscreen.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-nodpi/ic_cdv_splashscreen.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "com.midterm.app-main-26:/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.midterm.app-merged_res-24:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.midterm.app-main-26:/mipmap-ldpi/ic_launcher.png"
+    }
+]
